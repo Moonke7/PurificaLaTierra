@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/PurificaLaTierra/static/css/main.d198908d.css",
-    "main.js": "/PurificaLaTierra/static/js/main.3762ec49.js",
+    "main.css": "/PurificaLaTierra/static/css/main.01671ad7.css",
+    "main.js": "/PurificaLaTierra/static/js/main.c8776e66.js",
     "index.html": "/PurificaLaTierra/index.html",
-    "main.d198908d.css.map": "/PurificaLaTierra/static/css/main.d198908d.css.map",
-    "main.3762ec49.js.map": "/PurificaLaTierra/static/js/main.3762ec49.js.map"
+    "main.01671ad7.css.map": "/PurificaLaTierra/static/css/main.01671ad7.css.map",
+    "main.c8776e66.js.map": "/PurificaLaTierra/static/js/main.c8776e66.js.map"
   },
   "entrypoints": [
-    "static/css/main.d198908d.css",
-    "static/js/main.3762ec49.js"
+    "static/css/main.01671ad7.css",
+    "static/js/main.c8776e66.js"
   ]
 }
