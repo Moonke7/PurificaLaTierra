@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PurificaLaTierra/static/css/main.d198908d.css",
+    "main.js": "/PurificaLaTierra/static/js/main.3762ec49.js",
+    "index.html": "/PurificaLaTierra/index.html",
+    "main.d198908d.css.map": "/PurificaLaTierra/static/css/main.d198908d.css.map",
+    "main.3762ec49.js.map": "/PurificaLaTierra/static/js/main.3762ec49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d198908d.css",
+    "static/js/main.3762ec49.js"
+  ]
+}
