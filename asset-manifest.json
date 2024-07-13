@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/PurificaLaTierra/static/css/main.5036ed9c.css",
-    "main.js": "/PurificaLaTierra/static/js/main.d3a20dc2.js",
+    "main.css": "/PurificaLaTierra/static/css/main.1be084f8.css",
+    "main.js": "/PurificaLaTierra/static/js/main.e5508bf0.js",
     "static/media/Video 72 def.mp4": "/PurificaLaTierra/static/media/Video 72 def.06ba2dacfd68e15c2d72.mp4",
     "static/media/1209-video 3.mp4": "/PurificaLaTierra/static/media/1209-video 3.f05d296b50d266095ccd.mp4",
     "static/media/1208- video 2.mp4": "/PurificaLaTierra/static/media/1208- video 2.066905414f5baec0bc88.mp4",
@@ -75,11 +75,11 @@
     "static/media/C0080 - video 46.mp4": "/PurificaLaTierra/static/media/C0080 - video 46.7573b91a1e29b11aa011.mp4",
     "static/media/C0079 - video 45.mp4": "/PurificaLaTierra/static/media/C0079 - video 45.96a165c5938a72d1264f.mp4",
     "index.html": "/PurificaLaTierra/index.html",
-    "main.5036ed9c.css.map": "/PurificaLaTierra/static/css/main.5036ed9c.css.map",
-    "main.d3a20dc2.js.map": "/PurificaLaTierra/static/js/main.d3a20dc2.js.map"
+    "main.1be084f8.css.map": "/PurificaLaTierra/static/css/main.1be084f8.css.map",
+    "main.e5508bf0.js.map": "/PurificaLaTierra/static/js/main.e5508bf0.js.map"
   },
   "entrypoints": [
-    "static/css/main.5036ed9c.css",
-    "static/js/main.d3a20dc2.js"
+    "static/css/main.1be084f8.css",
+    "static/js/main.e5508bf0.js"
   ]
 }
